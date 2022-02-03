@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="nombre">Escribe tu nombre</string>
+    <string name="apellido">Escribe tu apellido</string>
+    <string name="varA">Ingresa el valor de A:</string>
+    <string name="varB">Ingresa el valor de B:</string>
+    <string name="varC">Ingresa el valor de C:</string>
+</resources>

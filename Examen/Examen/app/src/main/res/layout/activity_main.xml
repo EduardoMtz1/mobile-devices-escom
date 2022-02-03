@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:text="Introduce los vectores a usar"
+        android:background="@color/purple_700"
+        android:layout_gravity= "center"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:text="Valor del vector x:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/xet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint = "@string/vector"/>
+    <TextView
+        android:text="Valor del vector y:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/yet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint = "@string/vector"/>
+    <TextView
+        android:text="Valor del vector z:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/zet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint = "@string/vector"/>
+    <Button
+        android:id="@+id/xbn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aceptar" />
+</LinearLayout>
