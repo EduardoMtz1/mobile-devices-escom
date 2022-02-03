@@ -1,4 +1,4 @@
-# mobile-devices-escom
+# Application Development for Mobile Devices
 
 ## Cada carpeta contiene:
 -> Archivo PDF con indicaciones de la tarea/Proyecto
